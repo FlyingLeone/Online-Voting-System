@@ -1,0 +1,40 @@
+body{
+    
+    background-color: rgb(255, 171, 110);
+}
+#HeaderSection{
+    padding: 10px;
+}
+
+#HeaderSection h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+     padding: 15px;
+     border-radius: 20px;
+     width: 20%;
+     }
+     
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 20%;
+    border-color: black;
+        }
+#loginbtn{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    width: 5%;
+    background-color: rgb(230, 54, 113);
+    color: white;
+}
+#registerbtn{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    width: 5%;
+    background-color: rgb(230, 54, 113);
+    color: white;
+}
